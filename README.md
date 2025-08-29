@@ -25,6 +25,7 @@ Incluye datos de ejemplo para ambos.
 ## Esquema
 
 Consulta el diagrama ER incluido en este repositorio para ver las relaciones entre las entidades.
+
 ![Hosp Manager](./schema-hosp-manager.png)
 
 ---
